@@ -1,2 +1,2 @@
 # bash-dnd
-a terminal-based DnD character sheet
+a DnD character sheet for command line
